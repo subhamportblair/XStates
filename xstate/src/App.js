@@ -140,8 +140,8 @@ export default function App() {
             justifyContent: "center",
           }}
         >
-          You selected:{" "}
-          {city}, {state},{country}
+          You selected{" "}
+          {city}, {state}, {country}
         </div>
       )}
     </div>
